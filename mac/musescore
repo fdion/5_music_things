@@ -1,0 +1,2 @@
+#!/bin/bash
+exec /Applications/Musescore 2.app/Contents/MacOS/mscore "$@"
